@@ -1,6 +1,3 @@
-
-<p align="center"><img src="/src/img/logo.png" alt="chainx"/></p>
-
 # Polkadot（波卡链）：畅想一种异构的多链架构
 
 <p align="center">草案1 Gavin Wood博士</p>
@@ -18,3 +15,5 @@
 <p align="center">版权所有：因特链社区，国内最具前瞻性的跨链技术社区，未经许可，禁止转载。</p>
 
 <p align="center">想要了解区块链跨链更多内容，请访问 <a href="http://chainx.org/">chainx.org</a></p>
+
+<p align="center"><a href="http://chainx.org/"><img src="/src/img/logo.png" style="width:20%;" alt="chainx"/></a></p>
