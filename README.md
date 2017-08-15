@@ -16,4 +16,8 @@
 
 <p align="center">想要了解区块链跨链更多内容，请访问 <a href="http://chainx.org/">chainx.org</a></p>
 
-<p align="center"><a href="http://chainx.org/"><img src="/src/img/logo.png" style="width:20%;" alt="chainx"/></a></p>
+<p align="center">
+  <a href="http://chainx.org/">
+    <img width="240px" src="https://raw.githubusercontent.com/chainx-org/i/master/logo.png">
+  </a>
+</p>
