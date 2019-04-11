@@ -10,7 +10,7 @@
 
 <p align="center">原文：<a href="https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf">Polkadot White Paper</a></p>
 
-<p align="center">译文：<a href="http://chainx.org/paper/index/index.html">Polkadot 中文白皮书</a></p>
+<p align="center">译文：<a href="https://chainx.org/polkadot_cn.pdf">Polkadot 中文白皮书</a></p>
 
 <p align="center">版权所有：因特链社区，国内最具前瞻性的跨链技术社区，未经许可，禁止转载。</p>
 
